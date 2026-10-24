@@ -32,10 +32,9 @@
 ---
 
 ## 📌 **Pinned Projects**
-🔹 [FaceTrack](https://github.com/rohitkumarram410/FaceTrack) 📸  
-🔹 [JobPrep](https://github.com/rohitkumarram410/JobPrep) ⚛  
-🔹 [Health Chatbot](https://github.com/rohitkumarram410/AI-Health-Chatbot) 🔬  
-🔹 [Adventure_Game](https://github.com/rohitkumarram410/Adventure_Game) 🎮 
+🔹 [Real-Time Attendance](https://github.com/Jyotirmayee28/Real_Time_Attendance_System) 📸  
+🔹 [Diabetes Risk Prediction](https://github.com/Jyotirmayee28/Diabetes_Risk_Prediction) 🩺  
+🔹 [Order Prediction System](https://github.com/Jyotirmayee28/Order_Prediction_System) 📦  
 
 ---
 
